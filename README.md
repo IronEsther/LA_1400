@@ -84,4 +84,5 @@ Ich fand die Gruppenarbeit sehr gut, da ich meine Mitschüler bei einem Problem 
 
 **Verbesserungsvorschlag**
 
-Ich finde, dass wir diese Gruppenarbeit eigentlich gut gemacht haben, jedoch sind wir einmal nicht vorangekommen, da wir irgendwie alle Dateien nicht sauber zusammenfügen konnten und dadurch ein Chaos entstanden ist, den wir zuerst noch beheben mussten. 
+Ich finde, dass wir diese Gruppenarbeit eigentlich gut gemacht haben, jedoch sind wir einmal nicht vorangekommen, da wir irgendwie alle Dateien nicht sauber zusammenfügen konnten und dadurch ein Chaos entstanden ist, den wir zuerst noch beheben mussten. Jedoch haben wir die Zusammenfügung erst am Schluss gemacht, deshalb hatten wir am Schluss ziemlich Stress gehabt. Um dies zu verbessern, denke ich, dass wir uns absprechen müssen, wann wir die Dateien zusammenfügen sollen (und dies nicht am letzten Tag zu machen).
+Auch kannte ich die Leute in unsere Gruppe schon, weswegen wir auch sofort arbeiten konnten und uns nicht noch kennenlernen mussten. 
