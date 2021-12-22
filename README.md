@@ -82,4 +82,4 @@ Ich fand die Gruppenarbeit sehr gut, da ich meine Mitschüler bei einem Problem 
 
 **Verbesserungsvorschlag**
 
-Ich finde, dass wir diese Gruppenarbeit eigentlich gut gemacht haben, jedoch 
+Ich finde, dass wir diese Gruppenarbeit eigentlich gut gemacht haben, jedoch sind wir einmal nicht vorangekommen, da wir irgendwie alle Dateien nicht sauber zusammenfügen konnten und dadurch ein Chaos entstanden ist, den wir zuerst noch beheben mussten. 
