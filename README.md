@@ -4,7 +4,7 @@ In diesem Portfolioeintrag werde ich Ihnen zeigen, was für ein Projekt unsere G
 
 # Einführung
 
-Wir (Gruppe IceCream) haben das Projekt gewählt, als basis ein Hütchenspiel `C#` in `Windows Forms` zu programmieren. In dieser Gruppenarbeit haben wir jedoch auch entschieden, dass wir andere Spiele, wie z.B. 'Higher-Lower-Game' und 'Random-Number-Game', hinzufügen. Im Random-Number-Game muss der Benutzer eine vom Computer zufällig generierte Zahl herausfinden und in einem Textfeld hineinschreiben. 
+Wir (Gruppe IceCream) haben das Projekt gewählt, als basis ein Hütchenspiel in `C#` auf `Windows Forms` zu programmieren. In dieser Gruppenarbeit haben wir jedoch auch entschieden, dass wir andere Spiele, wie z.B. 'Higher-Lower-Game' und 'Random-Number-Game', hinzufügen. Im Random-Number-Game muss der Benutzer eine vom Computer zufällig generierte Zahl herausfinden und in einem Textfeld hineinschreiben. 
 
 
 **Ziele**
