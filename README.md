@@ -34,6 +34,7 @@ Hier zeige ich Ihnen ein Beispiel dafür aus meinem Projekt:
 
 `Windows Forms` funktioniert fast gleich wie die Konsole in `C#`, jedoch der einzige Unterschied ist, dass man den Code in den dazugehörigen Designs einfügen kann. Dass heisst, dass man z.B. den Code für den Button nicht beim Code für die Ausgabe einfügen kann.
 Das bedeutet, dass man beim Code schreiben beachten muss, dass man es beim richtigen Design hineinschreibt. 
+
 Das Programm vom Design stürzt auch ab, wenn man im Code den Namen eines Grafikes ändert, dies jedoch nicht bei der Grafik selber tut. Wenn man das macht, dann kommt eine Fehlermeldung des Systems. Bis man den Fehler nicht fixiert hat, lädt das Design nicht. Dies ist ziemlich mühsam, deshalb würde ich Ihnen abraten, dies zu tun. 
 Sonst ist `Windows Forms` ziemlich ähnlich wie die Konsole, es hat jedoch andere Namen für die Ausgabe eines Textes als die Konsole. 
 
